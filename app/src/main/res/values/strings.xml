@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VolleyWithGson</string>
+    <string name="button_json_object">JsonObject</string>
+    <string name="button_json_array">JsonArray</string>
+</resources>
